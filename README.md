@@ -2,22 +2,22 @@
 Collection of all frontend and backend knowledge, such as collections of generic components and code-snippets created throughout the learning journey.
 
 ## Folder-Structure
-Front-End
+#### Front-End
 - CSS Fundamentals
 - HTML Fundamentals
 - Javascript Fundamentals
 - Components
-Back-End
+#### Back-End
 - Node.js
 - Django
 - Mongo
 - SQL
-Computer Science
+#### Computer Science
 - Algorithms
 - Data Structures
 - Design Patterns
 - IT Security
 - Networks
-Programming
+#### Programming
 - Java
 - Python
