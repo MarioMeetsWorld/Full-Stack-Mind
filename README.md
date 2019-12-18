@@ -1,2 +1,2 @@
 # Full-Stack-Mind
-Collection of my knowledge on frontend and backend, such as collections of generic components and code-snippets created throughout the learning journey.
+Collection of all frontend and backend knowledge, such as collections of generic components and code-snippets created throughout the learning journey.
