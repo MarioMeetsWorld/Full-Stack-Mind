@@ -23,4 +23,6 @@ Collection of all frontend and backend knowledge, such as collections of generic
 #### Programming
 - Java
 - Python
-- Javascript Fundamentals
+- Javascript
+- Go
+- TypeScript
